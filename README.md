@@ -2,4 +2,5 @@
 
 ##### Weather forecasting is the application of science and technology to predict the conditions of the atmosphere for a given location and time. Weather forecasts are made by collecting quantitative data about the current state of the atmosphere at a given place and using meteorology to project how the atmosphere will change. The role of Technology has been remarkable in the field of weather forecasting. Weather data is not only necessary for researchers or scientists, ordinary people can be benefitted from it as well. People nowadays are feeling the necessity of weather data as well. There are a variety of weather mobile apps in Google Play and the App store. Those apps have great features and functionalities to satisfy users. However, only a few of them have friendly user interface and human centered interactions, which means that a lot of them might be difficult to be navigated even though they provide enough functionalities. It is not convenient for new users. Therefore, we would like to do improvements on weather mobile apps. It is basically for Apple smart phones and tablets.
 
-![Weather App](images\image.jpg "Weather App")
+
+<img src="https://github.com/snehakumari1112/weather_app/assets/99785784/0b991971-df9b-43fd-8dc3-87ac73a649b1" width=30% height=10%>
